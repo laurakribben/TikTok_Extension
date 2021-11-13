@@ -1,0 +1,17 @@
+{
+    "name": "TikTok_Extention",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2,
+    "content_scripts": [{
+        "matches": ["*://*.tiktok.com/*"],
+        "js": ["content-script.js"]
+    }],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
