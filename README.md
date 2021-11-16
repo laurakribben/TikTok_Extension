@@ -8,4 +8,4 @@
 4. Navigate to the extention on your computer
 
 ## ToDo's
-* Closing animation
+
