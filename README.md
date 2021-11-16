@@ -1,11 +1,11 @@
-# TikTok_Extention
+# TikTok_Extension
 
-## How to add the extention:
+## How to add the extension:
 
 1. Go to <chrome://extensions/>
 2. Toggle "developer mode"
-3. Go to "load unpacked extention"
-4. Navigate to the extention on your computer
+3. Go to "load unpacked extension"
+4. Navigate to the extension on your computer
 
 ## ToDo's
 
